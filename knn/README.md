@@ -1,1 +1,1 @@
-### DataSet is extracted in this folder directly
+### DataSet should be extracted in this folder directly
