@@ -4,3 +4,4 @@ The study of 《Machine Learning In Action》<br><br>
 Now, this repository include:<br>
 * kNN(k-Nearest Neighbor)
 * DT(Decision Tree)
+* NB(Naive Bayes)
