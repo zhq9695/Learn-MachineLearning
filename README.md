@@ -5,3 +5,4 @@ Now, this repository include:<br>
 * kNN(k-Nearest Neighbor)
 * DT(Decision Tree)
 * NB(Naive Bayes)
+* LR(Logistic Regression)
