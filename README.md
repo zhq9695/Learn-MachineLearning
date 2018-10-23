@@ -7,4 +7,4 @@ Now, this repository include:<br>
 * NB(Naive Bayes)
 * LR(Logistic Regression)
 * SVM(Support Vector Machine)
-* adaboost(AdaBoost, adaptive boosting)
+* AdaBoost(Adaptive Boosting)
