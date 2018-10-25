@@ -8,3 +8,4 @@ Now, this repository include:<br>
 * LR(Logistic Regression)
 * SVM(Support Vector Machine)
 * AdaBoost(Adaptive Boosting)
+* Regression(Linear Regression)
