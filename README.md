@@ -9,3 +9,4 @@ Now, this repository include:<br>
 * SVM(Support Vector Machine)
 * AdaBoost(Adaptive Boosting)
 * Regression(Linear Regression)
+* CART(Classification And Regression Tree)
