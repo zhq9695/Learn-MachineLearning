@@ -11,3 +11,4 @@ Now, this repository include:<br>
 * Regression(Linear Regression)
 * CART(Classification And Regression Tree)
 * Kmeans(K-means)
+* Apriori(Apriori)
