@@ -12,3 +12,4 @@ Now, this repository include:<br>
 * CART(Classification And Regression Tree)
 * Kmeans(K-means)
 * Apriori(Apriori)
+* FPgrowth(FP-growth)
