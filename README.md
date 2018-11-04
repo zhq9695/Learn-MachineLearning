@@ -13,3 +13,5 @@ Now, this repository include:<br>
 * Kmeans(K-means)
 * Apriori(Apriori)
 * FPgrowth(FP-growth)
+* PCA(Principal Component Analysis)
+* SVD(Singular Value Decomposition)
