@@ -5,7 +5,6 @@ import matplotlib.pyplot as plt
 
 """
 svd降维
-矩阵分解，利用低维空间特征表示高维数据
 """
 
 
@@ -35,27 +34,6 @@ def svd(dataMat, topNfeat=9999999):
     return lowDDataMat, reconMat
 
 
-# svd矩阵分解，低维空间还原回原矩阵
-def svd2():
-    Data = mat([[0, 0, 0, 2, 2],
-                [0, 0, 0, 3, 3],
-                [0, 0, 0, 1, 1],
-                [1, 1, 1, 0, 0],
-                [2, 2, 2, 0, 0],
-                [5, 5, 5, 0, 0],
-                [1, 1, 1, 0, 0]])
-
-    U, sigma, VT = linalg.svd(Data)
-    # U: 7*7
-    # sigma: 7*5
-    # VT: 5*5
-    print(U.shape, sigma.shape, VT.shape)
-    # 奇异值
-    print(sigma)
-    # 使用前两个特征近似表示原始矩阵
-    print(mat(U[:, :2]) * mat(multiply(eye(2), sigma[:2])) * VT[:2, :])
-
-
 if __name__ == '__main__':
     dataMat = loadDataSet('testSet.txt', '\t')
     lowDMat, reconMat = svd(dataMat, 1)
@@ -67,5 +45,3 @@ if __name__ == '__main__':
     ax.scatter(reconMat[:, 0].flatten().A[0], reconMat[:, 1].flatten().A[0],
                marker='o', s=50, c='red')
     plt.show()
-
-    svd2()
