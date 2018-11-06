@@ -16,3 +16,4 @@ Now, this repository include:<br>
 * PCA(Principal Component Analysis)
 * SVD(Singular Value Decomposition)
 * CF(Collaborative Filtering)
+* MR(MapReduce)
