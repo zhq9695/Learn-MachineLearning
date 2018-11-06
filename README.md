@@ -17,3 +17,4 @@ Now, this repository include:<br>
 * SVD(Singular Value Decomposition)
 * CF(Collaborative Filtering)
 * MR(MapReduce)
+* Pegasos(Primal Estimated Sub-Gradient Solver for SVM)
