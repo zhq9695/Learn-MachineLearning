@@ -15,3 +15,4 @@ Now, this repository include:<br>
 * FPgrowth(FP-growth)
 * PCA(Principal Component Analysis)
 * SVD(Singular Value Decomposition)
+* CF(Collaborative Filtering)
